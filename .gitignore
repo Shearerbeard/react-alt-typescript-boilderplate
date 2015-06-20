@@ -3,11 +3,6 @@
 *.js.map
 !webpack-config.js
 target
-typings
-!typings/react/react-jsx.d.ts
-!typings/alt/alt.d.ts
-!typings/references.t.ts
-!typings/bluebird/blubird-es6.d.ts
 npm-debug.log
 node_modules
 .DS_Store
